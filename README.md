@@ -18,14 +18,12 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
- <img alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
- 
-
-<br><br>
-
 Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vinicius_Klingenfus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-klngenfus/)](https://www.linkedin.com/in/vinicius-klngenfus/) 
 [![Gmail Badge](https://img.shields.io/badge/-vinisklin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:afonso.canallejr@gmail.com)
 
+ <img alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+<br><br>
 <!--
