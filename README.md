@@ -1,12 +1,14 @@
 ### Hi there 👋
 <h1 align="left"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Afonso Canalle Junior!</h1>
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
-
+- 🔥 Aspiring programmer on a life-changing journey
+  
 - 🔭 I’m currently looking for workork.
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Python**
 
+ <img alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+ 
 <!--
 
 <br><br>
