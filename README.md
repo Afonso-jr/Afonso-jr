@@ -7,7 +7,7 @@
 
 🛠 &nbsp;Tech Stack
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Python**
+- 💬 Ask me about **JavaScript, HTML, CSS, Python, SQL**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
