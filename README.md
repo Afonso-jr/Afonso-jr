@@ -1,9 +1,9 @@
 ### Hi there 👋
 <h1 align="left"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Afonso Canalle Junior!</h1>
 
-- 🔥 Aspiring programmer on a life-changing journey
+- 🔥 Aspiring programmer on a life-changing journey!
   
-- 🔭 I’m currently looking for workork.
+- 🔭 I’m currently looking for work!
 
 🛠 &nbsp;Tech Stack
 
