@@ -21,6 +21,6 @@
 Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-Afonso_Junior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afonso-canalle-junior-43499293/)](https://www.linkedin.com/in/afonso-canalle-junior-43499293/) 
-[![Gmail Badge](https://img.shields.io/badge/-vinisklin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:afonso.canallejr@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-afonso.canallejr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:afonso.canallejr@gmail.com)
 
 <!--
